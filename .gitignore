@@ -3,3 +3,5 @@ __pycache__/
 telemetry_result.png
 physical_pipeline_result.png
 experiment_tradeoff_result.png
+Cargo.lock
+target/
