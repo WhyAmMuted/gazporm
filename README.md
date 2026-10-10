@@ -1,7 +1,7 @@
 # 🏭 Программно-алгоритмический комплекс интеллектуального контроля и оптимизационного управления кустом газовых скважин
 
 [![Rust 2024](https://img.shields.io/badge/Rust-2024_Edition-orange?logo=rust)](https://www.rust-lang.org/)
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.14+-blue?logo=python)](https://www.python.org/)
 [![PyO3](https://img.shields.io/badge/FFI-PyO3_Bindings-red)](https://pyo3.rs/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit_Dashboard-FF4B4B?logo=streamlit)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
