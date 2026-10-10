@@ -1,0 +1,11 @@
+[package]
+name = "gas_telemetry_edge"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "gas_telemetry_edge"
+crate-type = ["cdylib"]
+
+[dependencies]
+pyo3 = "0.29.3"
